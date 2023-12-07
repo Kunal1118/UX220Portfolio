@@ -1,14 +1,14 @@
-# Assignment 2
+# Assignment 3
 
 ## Quick Start
 
 ```bash
-git clone https://github.com/kunal1118/UX220Assignment2 .
+git clone https://github.com/kunal1118/UX220Assignment3 .
 npm install
 npm start
 ```
 
-or surf to [https://diy-pwa.dev](https://diy-pwa.dev/~/gh/kunal1118/UX220Assignment2). 
+or surf to [https://diy-pwa.dev](https://diy-pwa.dev/~/gh/kunal1118/UX220Portfolio). 
 
 ```bash
 npm install
